@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ecavaira.github.io/KoB/sitemap_index.txt
+Sitemap: https://ecavaira.github.io/LxR/sitemap_index.txt
+Sitemap: https://ecavaira.github.io/PCF/sitemap_index.txt
+Sitemap: https://ecavaira.github.io/wsn/sitemap_index.txt
